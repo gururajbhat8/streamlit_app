@@ -18,7 +18,7 @@ This project was created for learning purposes. Through this, I explored:
 
 ## 🛠️ Setup Instructions
 ### 1️⃣ Clone the Repository
-```sh
+sh
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
