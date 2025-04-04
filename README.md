@@ -18,17 +18,20 @@ This project was created for learning purposes. Through this, I explored:
 
 ## 🛠️ Setup Instructions
 ### 1️⃣ Clone the Repository
+```sh
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
 2️⃣ Install Dependencies :
+```sh
 pip install -r requirements.txt
 
 3️⃣ Set Up API Key :
-Create a .env file in the project directory
+Create a .env file in the project directory.
 Add your Hugging Face API key in the file like this:
-
+```sh
 HF_API_KEY=hf_xxxx_your_api_key_here
 
 4️⃣ Run the Chatbot
+```sh
 streamlit run app.py
