@@ -17,27 +17,18 @@ This project was created for learning purposes. Through this, I explored:
 ✅ How to deploy a chatbot for **free**  
 
 ## 🛠️ Setup Instructions
-### 1️⃣ Clone the Repository  
-```bash
+### 1️⃣ Clone the Repository
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
 2️⃣ Install Dependencies
-bash
-Copy
-Edit
 pip install -r requirements.txt
+
 3️⃣ Set Up API Key
 Create a .env file in the project directory
-
 Add your Hugging Face API key in the file like this:
 
-ini
-Copy
-Edit
 HF_API_KEY=hf_xxxx_your_api_key_here
+
 4️⃣ Run the Chatbot
-bash
-Copy
-Edit
 streamlit run app.py
